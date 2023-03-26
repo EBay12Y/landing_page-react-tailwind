@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/landing_page-react-tailwind/static/css/main.02ec5f37.css",
+    "main.js": "/landing_page-react-tailwind/static/js/main.dc099522.js",
+    "static/media/partner.png": "/landing_page-react-tailwind/static/media/partner.d566e62ea73f258036fe.png",
+    "static/media/Works-amico.svg": "/landing_page-react-tailwind/static/media/Works-amico.f0a8f80907d8eeefbd05e88202cac6ac.svg",
+    "static/media/single.png": "/landing_page-react-tailwind/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/landing_page-react-tailwind/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/About us-amico.svg": "/landing_page-react-tailwind/static/media/About us-amico.154b6a2d5d6f82c954cda0537815d05a.svg",
+    "static/media/triple.png": "/landing_page-react-tailwind/static/media/triple.4eb8f19f4b4647321484.png",
+    "static/media/Contact us-amico.svg": "/landing_page-react-tailwind/static/media/Contact us-amico.9c290b493c842993f6635f027187b93d.svg",
+    "index.html": "/landing_page-react-tailwind/index.html",
+    "main.02ec5f37.css.map": "/landing_page-react-tailwind/static/css/main.02ec5f37.css.map",
+    "main.dc099522.js.map": "/landing_page-react-tailwind/static/js/main.dc099522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02ec5f37.css",
+    "static/js/main.dc099522.js"
+  ]
+}
