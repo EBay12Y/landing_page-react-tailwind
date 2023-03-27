@@ -1,3 +1,14 @@
+# Proyek Website Sederhana - Membuat halaman landing page sederhana dengan ReactJS & Tailwind
+
+Eksplorasi membuat simple landing page dengan brief sebagai berikut:
+
+![1a](https://user-images.githubusercontent.com/105551088/227889919-cbffa8c8-4cd2-48d5-aa36-be708edbd634.jpg)
+![1b](https://user-images.githubusercontent.com/105551088/227890003-c2e6a117-a7bd-4ff4-b79a-07e64f456c6e.jpg)
+
+
+Link project yang sudah bisa dicoba ada disini 👉 [klik disini](https://ebay12y.github.io/landing_page-react-tailwind/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
