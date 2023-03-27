@@ -5,3 +5,7 @@
 body {
     background-color: #001d3d;
 }
+
+.navbar-blur {
+    backdrop-filter: blur(10px);
+}
